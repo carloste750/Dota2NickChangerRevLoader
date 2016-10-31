@@ -1,0 +1,9 @@
+G:\PRODUCTOS\Dota2NickChanger\Dota2NickChanger\bin\Debug\Dota2NickChanger.exe.config
+G:\PRODUCTOS\Dota2NickChanger\Dota2NickChanger\bin\Debug\Dota2NickChanger.exe
+G:\PRODUCTOS\Dota2NickChanger\Dota2NickChanger\bin\Debug\Dota2NickChanger.pdb
+G:\PRODUCTOS\Dota2NickChanger\Dota2NickChanger\obj\Debug\Dota2NickChanger.csprojResolveAssemblyReference.cache
+G:\PRODUCTOS\Dota2NickChanger\Dota2NickChanger\obj\Debug\Dota2NickChanger.About.resources
+G:\PRODUCTOS\Dota2NickChanger\Dota2NickChanger\obj\Debug\Dota2NickChanger.MainForm.resources
+G:\PRODUCTOS\Dota2NickChanger\Dota2NickChanger\obj\Debug\Dota2NickChanger.csproj.GenerateResource.Cache
+G:\PRODUCTOS\Dota2NickChanger\Dota2NickChanger\obj\Debug\Dota2NickChanger.exe
+G:\PRODUCTOS\Dota2NickChanger\Dota2NickChanger\obj\Debug\Dota2NickChanger.pdb
